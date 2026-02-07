@@ -1,6 +1,10 @@
 {
   "capes": [
     "bacon": "https://raw.githubusercontent.com/vrob1bmv0318tb0m03wnqun2mryfeig247vsn4v/-/refs/heads/0/capes/bacon.png",
-    "chaos": ""
-  ]
+    "chaos": "https://raw.githubusercontent.com/vrob1bmv0318tb0m03wnqun2mryfeig247vsn4v/-/refs/heads/0/capes/chaos.png"
+  ],
+  "users": {
+    "chaos": "https://raw.githubusercontent.com/vrob1bmv0318tb0m03wnqun2mryfeig247vsn4v/-/refs/heads/%E2%80%8B%E2%80%8B/paper",
+    "bacon": "https://raw.githubusercontent.com/vrob1bmv0318tb0m03wnqun2mryfeig247vsn4v/-/refs/heads/%E2%80%8B%E2%80%8B/space"
+  }
 }
